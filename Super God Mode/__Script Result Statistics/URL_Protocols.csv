@@ -1,0 +1,159 @@
+﻿Protocol,Name,Command,Package Name,Package AppName,Package App Description,IsMicrosoft
+"bingmaps://","","C:\Program Files\WindowsApps\Microsoft.WindowsMaps_1.0.62.0_x64__8wekyb3d8bbwe\Maps.exe","Microsoft.WindowsMaps","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"bingnews://","bingnews","C:\Program Files\WindowsApps\Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe\Microsoft.Msn.News.exe","Microsoft.BingNews","ms-resource:ApplicationTitleWithTagline","ms-resource:ApplicationTitleWithBrandingWithNewName",True
+"bingweather://","bingweather","C:\Program Files\WindowsApps\Microsoft.BingWeather_4.53.62621.0_x64__8wekyb3d8bbwe\Microsoft.Msn.Weather.exe","Microsoft.BingWeather","ms-resource:ApplicationTitleShort","ms-resource:ApplicationDescription",True
+"calculator://","calculator","C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_11.2405.2.0_x64__8wekyb3d8bbwe\CalculatorApp.exe","Microsoft.WindowsCalculator","ms-resource:AppName","ms-resource:AppDescription",True
+"feedback-hub://","feedback-hub","C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.2407.21972.0_x64__8wekyb3d8bbwe\PilotshubApp.exe","Microsoft.WindowsFeedbackHub","ms-resource:AppStoreName","ms-resource:AppDescription",True
+"insiderhub://","insiderhub","C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.2407.21972.0_x64__8wekyb3d8bbwe\PilotshubApp.exe","Microsoft.WindowsFeedbackHub","ms-resource:AppStoreName","ms-resource:AppDescription",True
+"mailto://","mailto","C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22054.0_x64__8wekyb3d8bbwe\HxOutlook.exe C:\Program Files\WindowsApps\microsoft.outlookforwindows_1.2024.911.200_x64__8wekyb3d8bbwe\olk.exe","microsoft.windowscommunicationsapps Microsoft.OutlookForWindows","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_MailDesktop_DisplayName Outlook (new)","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_MailDesktop_Description Microsoft Outlook",True True
+"microsoft.windows.camera://","microsoft.windows.camera","C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2024.2408.1.0_x64__8wekyb3d8bbwe\WindowsCamera.exe","Microsoft.WindowsCamera","ms-resource:LensSDK/Resources/AppTitle","ms-resource:LensSDK/Resources/AppTitle",True
+"microsoft.windows.camera.multipicker://","microsoft.windows.camera.multipicker","C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2024.2408.1.0_x64__8wekyb3d8bbwe\WindowsCamera.exe","Microsoft.WindowsCamera","ms-resource:LensSDK/Resources/AppTitle","ms-resource:LensSDK/Resources/AppTitle",True
+"microsoft.windows.camera.picker://","microsoft.windows.camera.picker","C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2024.2408.1.0_x64__8wekyb3d8bbwe\WindowsCamera.exe","Microsoft.WindowsCamera","ms-resource:LensSDK/Resources/AppTitle","ms-resource:LensSDK/Resources/AppTitle",True
+"microsoft.windows.photos.crop://","microsoft.windows.photos.crop","C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2024.11070.31001.0_x64__8wekyb3d8bbwe\Photos.exe","Microsoft.Windows.Photos","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"Microsoft.Workfolders://","Microsoft Workfolders","C:\Windows\System32\control.exe /name Microsoft.WorkFolders","","","",True
+"microsoft-edge://","microsoft-edge","""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" ""%1""","","","",True
+"microsoft-edge-holographic://","","","","","",True
+"microsoftsolitairecollection://","microsoftsolitairecollection","C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.20.9120.0_x64__8wekyb3d8bbwe\Solitaire.exe","Microsoft.MicrosoftSolitaireCollection","Solitaire & Casual Games","Solitaire & Casual Games",True
+"microsoftvideo://","microsoftvideo","C:\Program Files\WindowsApps\Microsoft.WindowsStore_22408.1401.6.0_x64__8wekyb3d8bbwe\WinStore.App.exe","Microsoft.WindowsStore","Microsoft Store","ms-resource:StoreDescription",True
+"ms-aad-brokerplugin://","ms-aad-brokerplugin","C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Microsoft.AAD.BrokerPlugin.exe","Microsoft.AAD.BrokerPlugin","ms-resource:PackageDisplayName","ms-resource:PackageDescription",True
+"ms-access://","Access Protocol","C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe ""%1""","","","",True
+"ms-actioncenter://","ms-actioncenter","C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe","Microsoft.Windows.ShellExperienceHost","ms-resource:AppName/Text","ms-resource:AppDescription",True
+"ms-appinstaller://","ms-appinstaller","C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.23.1911.0_x64__8wekyb3d8bbwe\AppInstaller.exe","Microsoft.DesktopAppInstaller","ms-resource:appDisplayName","ms-resource:appDescription",True
+"ms-apprep://","ms-apprep","C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe","Microsoft.Windows.Apprep.ChxApp","ms-resource:DisplayName","ms-resource:DisplayName",True
+"ms-availablenetworks://","Available Networks Protocol","""C:\WINDOWS\system32\LaunchWinApp.exe"" ""%1""","","","",True
+"ms-calculator://","ms-calculator","C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_11.2405.2.0_x64__8wekyb3d8bbwe\CalculatorApp.exe","Microsoft.WindowsCalculator","ms-resource:AppName","ms-resource:AppDescription",True
+"ms-clipchamp://","ms-clipchamp","","","","",True
+"ms-clock://","ms-clock","C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_1.0.195.0_x64__8wekyb3d8bbwe\Time.exe","Microsoft.WindowsAlarms","ms-resource:AppName/Text","ms-resource:AppDescription",True
+"ms-contact-support://","ms-contact-support","C:\Program Files\WindowsApps\Microsoft.GetHelp_10.2407.22431.0_x64__8wekyb3d8bbwe\GetHelp.exe","Microsoft.GetHelp","ms-resource:appDisplayName","ms-resource:appDescription",True
+"ms-cortana2://","ms-cortana2","C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2308.1005.0_x64__8wekyb3d8bbwe\Cortana.exe","Microsoft.549981C3F5F10","Cortana","Cortana",True
+"ms-crossdevice-files://","ms-crossdevice-files","C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.24082.53.0_x64__cw5n1h2txyewy\CrossDeviceFilesHost.exe","MicrosoftWindows.CrossDevice","CrossDevice Files","CrossDevice Files",True
+"ms-crossdevice-settings://","ms-crossdevice-settings","C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.24082.53.0_x64__cw5n1h2txyewy\CrossDeviceSettingsHost.exe","MicrosoftWindows.CrossDevice","ms-resource://MicrosoftWindows.CrossDevice/SettingsResources/SettingsPageTitle","ms-resource://MicrosoftWindows.CrossDevice/SettingsResources/SettingsPageTitle",True
+"ms-crossdevice-share://","ms-crossdevice-share","C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.24082.53.0_x64__cw5n1h2txyewy\CrossDeviceShareHost.exe","MicrosoftWindows.CrossDevice","CrossDevice Share","CrossDevice Share",True
+"ms-cxh://","ms-cxh","","Microsoft.Windows.CloudExperienceHost","ms-resource:appDisplayName","ms-resource:appDescription",True
+"ms-cxh-full://","CloudExperienceHost Launch Protocol","","","","",True
+"ms-cxh-wam://","CloudExperienceHost WAM Launch Protocol","","","","",True
+"ms-default-location://","ms-default-location","C:\Program Files\WindowsApps\Microsoft.WindowsMaps_1.0.62.0_x64__8wekyb3d8bbwe\Maps.exe","Microsoft.WindowsMaps","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"ms-devhome://","ms-devhome","C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.100.128.0_x64__8wekyb3d8bbwe\DevHome.exe","Microsoft.Windows.DevHome","ms-resource:AppDisplayNameStable","ms-resource:AppDescription",True
+"ms-device-enrollment://","ms-device-enrollment","","Microsoft.Windows.CloudExperienceHost","ms-resource:appDisplayName","ms-resource:appDescription",True
+"ms-device-enrollment2://","ms-device-enrollment2","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\WebExperienceHostApp.exe","MicrosoftWindows.Client.CBS","ms-resource:WebExperienceHostAppName/Text","ms-resource:WebExperienceHostDescription",True
+"ms-drive-to://","ms-drive-to","C:\Program Files\WindowsApps\Microsoft.WindowsMaps_1.0.62.0_x64__8wekyb3d8bbwe\Maps.exe","Microsoft.WindowsMaps","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"ms-edu-secureassessment://","ms-edu-secureassessment","C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy\SecureAssessmentBrowser.exe","Microsoft.Windows.SecureAssessmentBrowser","ms-resource:PackageDisplayName","ms-resource:PackageDescription",True
+"ms-excel://","Excel Protocol","C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe ""%1""","","","",True
+"ms-eyecontrolspeech://","ms-eyecontrolspeech","C:\Windows\SystemApps\Microsoft.ECApp_8wekyb3d8bbwe\Microsoft.ECApp.exe","Microsoft.ECApp","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"ms-family://","ms-family","C:\Program Files\WindowsApps\MicrosoftCorporationII.MicrosoftFamily_0.2.40.0_x64__8wekyb3d8bbwe\FamilyHub.exe","MicrosoftCorporationII.MicrosoftFamily","Family","Microsoft Family",True
+"ms-gamebar://","ms-gamebar","C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.224.9031.0_x64__8wekyb3d8bbwe\GameBar.exe","Microsoft.XboxGamingOverlay","Game Bar","Game Bar",True
+"ms-gamebarservices://","ms-gamebarservices","C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.54.4001.0_x64__8wekyb3d8bbwe\GameBar.exe","Microsoft.XboxGameOverlay","Xbox Game bar","Xbox",True
+"msgamelaunch://","msgamelaunch","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"msgamepass://","msgamepass","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"msgamingapp://","msgamingapp","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"ms-gamingoverlay://","ms-gamingoverlay","C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.224.9031.0_x64__8wekyb3d8bbwe\GameBar.exe","Microsoft.XboxGamingOverlay","Game Bar","Game Bar",True
+"ms-getoffice://","ms-getoffice","C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2409.1102.0_x64__8wekyb3d8bbwe\WebViewHost.exe","Microsoft.MicrosoftOfficeHub","Microsoft 365 (Office)","Microsoft 365 (Office)",True
+"ms-get-started://","ms-get-started","C:\Program Files\WindowsApps\Microsoft.Getstarted_10.2312.1.0_x64__8wekyb3d8bbwe\WhatsNew.Store.exe","Microsoft.Getstarted","ms-resource:AppName","ms-resource:AppDescription",True
+"ms-inputapp://","ms-inputapp","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe","MicrosoftWindows.Client.CBS","ms-resource:AppDisplayName","WindowsInternal.ComposableShell.Experiences.TextInputUndocked.InputApp",True
+"ms-insights://","ms-insights","C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe","Microsoft.Windows.ShellExperienceHost","ms-resource:AppName/Text","ms-resource:AppDescription",True
+"ms-journal://","ms-journal","C:\Program Files\WindowsApps\Microsoft.MicrosoftJournal_1.23306.1292.0_x64__8wekyb3d8bbwe\Journal.exe","Microsoft.MicrosoftJournal","ms-resource:AppNameShort","Microsoft Journal",True
+"ms-launchremotedesktop://","ms-launchremotedesktop","","","","",True
+"ms-lwh://","ms-lwh","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LogonWebHostProduct.exe","MicrosoftWindows.Client.CBS","LogonWebHost","LogonWebHost",True
+"ms-media-player://","ms-media-player","C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2408.4.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe","Microsoft.ZuneMusic","ms-resource:AppName","ms-resource:AppDescription",True
+"ms-meetnow://","ms-meetnow","C:\Program Files\WindowsApps\microsoftteams_24124.2402.2858.5617_x64__8wekyb3d8bbwe\msteams.exe","MicrosoftTeams","Microsoft Teams (personal)","Microsoft Teams (personal)",True
+"ms-meetnowflyout://","ms-meetnowflyout","C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe","Microsoft.Windows.ShellExperienceHost","ms-resource:AppName/Text","ms-resource:AppDescription",True
+"ms-mmsys://","","C:\WINDOWS\System32\rundll32.exe C:\WINDOWS\System32\shell32.dll,Control_RunDLL C:\WINDOWS\System32\mmsys.cpl %1","","","",True
+"ms-msdt://","ms-msdt","""C:\WINDOWS\system32\msdt.exe"" %1","","","",True
+"ms-msime-imepad://","","C:\Windows\System32\IME\SHARED\IMEPADSV.EXE %1","","","",True
+"ms-msime-imjpdct://","","C:\Windows\System32\IME\IMEJP\IMJPDCT.EXE %1","","","",True
+"msnews://","msnews","C:\Program Files\WindowsApps\Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe\Microsoft.Msn.News.exe","Microsoft.BingNews","ms-resource:ApplicationTitleWithTagline","ms-resource:ApplicationTitleWithBrandingWithNewName",True
+"msnnews://","msnnews","C:\Program Files\WindowsApps\Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe\Microsoft.Msn.News.exe","Microsoft.BingNews","ms-resource:ApplicationTitleWithTagline","ms-resource:ApplicationTitleWithBrandingWithNewName",True
+"ms-notepad://","ms-notepad","C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2407.9.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe","Microsoft.WindowsNotepad","ms-resource:Resources/AppDisplayName_Notepad","ms-resource:Resources/AppDescription_Notepad",True
+"msnweather://","msnweather","C:\Program Files\WindowsApps\Microsoft.BingWeather_4.53.62621.0_x64__8wekyb3d8bbwe\Microsoft.Msn.Weather.exe","Microsoft.BingWeather","ms-resource:ApplicationTitleShort","ms-resource:ApplicationDescription",True
+"ms-officeapp://","ms-officeapp","C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2409.1102.0_x64__8wekyb3d8bbwe\WebViewHost.exe","Microsoft.MicrosoftOfficeHub","Microsoft 365 (Office)","Microsoft 365 (Office)",True
+"ms-office-storage-host://","Office Protocol","C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe ""%1""","","","",True
+"ms-outlook://","ms-outlook","C:\Program Files\WindowsApps\microsoft.outlookforwindows_1.2024.911.200_x64__8wekyb3d8bbwe\olk.exe","Microsoft.OutlookForWindows","Outlook (new)","Microsoft Outlook",True
+"ms-paint://","ms-paint","C:\Program Files\WindowsApps\Microsoft.Paint_11.2406.42.0_x64__8wekyb3d8bbwe\PaintApp\mspaint.exe","Microsoft.Paint","ms-resource:Resources/AppDisplayName","ms-resource:Resources/AppDescription",True
+"ms-penworkspace://","ms-penworkspace","C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe","Microsoft.Windows.ShellExperienceHost","ms-resource:AppName/Text","ms-resource:AppDescription",True
+"ms-people://","ms-people","C:\Program Files\WindowsApps\Microsoft.People_10.2202.100.0_x64__8wekyb3d8bbwe\PeopleApp.exe","Microsoft.People","ms-resource:AppListName","ms-resource:AppManifest_AppDescription",True
+"ms-perception-simulation://","Perception Simulation Protocol","C:\WINDOWS\system32\PerceptionSimulation\PerceptionSimulationInput.exe %1","","","",True
+"ms-phone://","ms-phone","C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24082.137.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe","Microsoft.YourPhone","ms-resource:AppName","ms-resource:AppName",True
+"ms-photos://","ms-photos","C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2024.11070.31001.0_x64__8wekyb3d8bbwe\Photos.exe","Microsoft.Windows.Photos","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"ms-playto-audio://","ms-playto-audio","C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2408.4.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe","Microsoft.ZuneMusic","ms-resource:AppName","ms-resource:AppDescription",True
+"ms-playto-miracast://","ms-playto-miracast","C:\Windows\SystemApps\Microsoft.PPIProjection_cw5n1h2txyewy\Receiver.exe","Microsoft.PPIProjection","ms-resource:ProductNameWindowsStore","ms-resource:ProductDescriptionWindowsStore",True
+"ms-powerautomate://","ms-powerautomate","C:\Program Files\WindowsApps\Microsoft.PowerAutomateDesktop_11.2409.203.0_x64__8wekyb3d8bbwe\PAD.Console.Host.exe","Microsoft.PowerAutomateDesktop","Power Automate","Power Automate",True
+"ms-powerautomatedesigner://","ms-powerautomatedesigner","C:\Program Files\WindowsApps\Microsoft.PowerAutomateDesktop_11.2409.203.0_x64__8wekyb3d8bbwe\PAD.Designer.exe","Microsoft.PowerAutomateDesktop","Power Automate Designer","Power Automate Designer",True
+"ms-powerpoint://","PowerPoint Protocol","C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe ""%1""","","","",True
+"ms-print-addprinter://","ms-print-addprinter","C:\Windows\PrintDialog\PrintDialog.exe","Windows.PrintDialog","ms-resource:DisplayName","ms-resource:Description",True
+"ms-print-printjobs://","ms-print-printjobs","C:\Windows\PrintDialog\PrintDialog.exe","Windows.PrintDialog","ms-resource:DisplayName","ms-resource:Description",True
+"ms-print-queue://","ms-print-queue","C:\Windows\SystemApps\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy\PrintQueueActionCenter.exe","Microsoft.Windows.PrintQueueActionCenter","ms-resource:AppxManifest_DisplayName","ms-resource:AppxManifest_Description",True
+"ms-projection://","ms-projection","C:\Windows\SystemApps\Microsoft.PPIProjection_cw5n1h2txyewy\Receiver.exe","Microsoft.PPIProjection","ms-resource:ProductNameWindowsStore","ms-resource:ProductDescriptionWindowsStore",True
+"ms-publisher://","Publisher Protocol","C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe ""%1""","","","",True
+"ms-quick-assist://","ms-quick-assist","C:\Program Files\WindowsApps\MicrosoftCorporationII.QuickAssist_2.0.19.0_x64__8wekyb3d8bbwe\Microsoft.RemoteAssistance.QuickAssist\QuickAssist.exe","MicrosoftCorporationII.QuickAssist","ms-resource://MicrosoftCorporationII.QuickAssist/resources/APP_WINDOW_NAME","ms-resource://MicrosoftCorporationII.QuickAssist/resources/APP_WINDOW_NAME",True
+"ms-rdx-document://","","C:\WINDOWS\system32\rundll32.exe C:\WINDOWS\system32\RDXService,OpenRDXDocument %1","","","",True
+"ms-retaildemo-launchbioenrollment://","ms-retaildemo-launchbioenrollment","","","","",True
+"ms-retaildemo-launchstart://","ms-retaildemo-launchstart","","","","",True
+"ms-screenclip://","","C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2407.3.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\ScreenClippingHost.exe","Microsoft.ScreenSketch MicrosoftWindows.Client.CBS","ms-resource:AppName/Text ms-resource:ScreenClippingAppName/Text","ms-resource:AppDescription ms-resource:ScreenClippingDescription",True True
+"ms-screensketch://","ms-screensketch","C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2407.3.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe","Microsoft.ScreenSketch","ms-resource:AppName/Text","ms-resource:AppDescription",True
+"ms-search://","ms-search","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe","MicrosoftWindows.Client.CBS","ms-resource:Cortana.UI/Resources/TileDisplayName","ms-resource:Cortana.UI/Resources/Description",True
+"ms-settings://","ms-settings","","","","",True
+"ms-settings-airplanemode://","ms-settings-airplanemode","","","","",True
+"ms-settings-bluetooth://","ms-settings-bluetooth","","","","",True
+"ms-settings-cellular://","ms-settings-cellular","","","","",True
+"ms-settings-connectabledevices://","Devices Flow Connectable Devices Protocol","""C:\WINDOWS\system32\LaunchWinApp.exe"" ""%1""","","","",True
+"ms-settings-displays-topology://","Devices Flow Display Topology Protocol","""C:\WINDOWS\system32\LaunchWinApp.exe"" ""%1""","","","",True
+"ms-settings-emailandaccounts://","ms-settings-emailandaccounts","","","","",True
+"ms-settings-language://","ms-settings-language","","","","",True
+"ms-settings-location://","ms-settings-location","","","","",True
+"ms-settings-lock://","ms-settings-lock","","","","",True
+"ms-settings-mobilehotspot://","ms-settings-mobilehotspot","","","","",True
+"ms-settings-notifications://","ms-settings-notifications","","","","",True
+"ms-settings-power://","ms-settings-power","","","","",True
+"ms-settings-privacy://","ms-settings-privacy","","","","",True
+"ms-settings-proximity://","ms-settings-proximity","","","","",True
+"ms-settings-screenrotation://","ms-settings-screenrotation","","","","",True
+"ms-settings-wifi://","ms-settings-wifi","","","","",True
+"ms-settings-workplace://","ms-settings-workplace","","","","",True
+"ms-snaplaunch://","Snap Launch","""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.Core_cw5n1h2txyewy\snaplauncherprotocol.exe"" ""%1""","","","",True
+"ms-stickereditor://","ms-stickereditor","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopStickerEditorWin32Exe\DesktopStickerEditorWin32Exe.exe","MicrosoftWindows.Client.CBS","DesktopStickerEditorCentennial","DesktopStickerEditorCentennial",True
+"ms-sttoverlay://","ms-sttoverlay","C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe\SpeechToTextOverlay64-Retail.exe","Microsoft.XboxSpeechToTextOverlay","ms-resource:AppName","Xbox",True
+"ms-taskswitcher://","ms-taskswitcher","","","","",True
+"ms-teams://","ms-teams","C:\Program Files\WindowsApps\microsoftteams_24124.2402.2858.5617_x64__8wekyb3d8bbwe\msteams.exe","MicrosoftTeams","Microsoft Teams (personal)","Microsoft Teams (personal)",True
+"ms-todo://","ms-todo","C:\Program Files\WindowsApps\Microsoft.Todos_0.114.7122.0_x64__8wekyb3d8bbwe\Todo.exe","Microsoft.Todos","ms-resource:app_name_ms_todo","ms-resource:app_name_ms_todo",True
+"ms-to-do://","ms-to-do","C:\Program Files\WindowsApps\Microsoft.Todos_0.114.7122.0_x64__8wekyb3d8bbwe\Todo.exe","Microsoft.Todos","ms-resource:app_name_ms_todo","ms-resource:app_name_ms_todo",True
+"ms-unistore-email://","ms-unistore-email","C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22054.0_x64__8wekyb3d8bbwe\HxOutlook.exe","microsoft.windowscommunicationsapps","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_MailDesktop_DisplayName","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_MailDesktop_Description",True
+"ms-virtualtouchpad://","Virtual Touchpad","""C:\WINDOWS\system32\LaunchWinApp.exe"" ""%1""","","","",True
+"ms-walk-to://","ms-walk-to","C:\Program Files\WindowsApps\Microsoft.WindowsMaps_1.0.62.0_x64__8wekyb3d8bbwe\Maps.exe","Microsoft.WindowsMaps","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"ms-wcrv://","ms-wcrv","C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2024.11070.31001.0_x64__8wekyb3d8bbwe\Photos.exe","Microsoft.Windows.Photos","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"ms-whiteboard-cmd://","ms-whiteboard-cmd","C:\Program Files\WindowsApps\Microsoft.Whiteboard_54.20907.567.0_x64__8wekyb3d8bbwe\MicrosoftWhiteboard\MicrosoftWhiteboard.exe","Microsoft.Whiteboard","Microsoft Whiteboard","Microsoft Whiteboard",True
+"ms-whiteboard-preview://","ms-whiteboard-preview","C:\Program Files\WindowsApps\Microsoft.Whiteboard_54.20907.567.0_x64__8wekyb3d8bbwe\MicrosoftWhiteboard\MicrosoftWhiteboard.exe","Microsoft.Whiteboard","Microsoft Whiteboard","Microsoft Whiteboard",True
+"ms-widgets://","ms-widgets","C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.24900.80.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe","MicrosoftWindows.Client.WebExperience","ms-resource:PkgDisplayName","ms-resource:PkgDisplayName",True
+"ms-windowsbackup://","ms-windowsbackup","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\WindowsBackupClient.exe","MicrosoftWindows.Client.CBS","ms-resource:WindowsBackup/Resources/WindowsBackupHostName","ms-resource:WindowsBackup/Resources/WindowsBackupDescription",True
+"mswindowsmusic://","","C:\Program Files\WindowsApps\Microsoft.ZuneMusic_11.2408.4.0_x64__8wekyb3d8bbwe\Microsoft.Media.Player.exe","Microsoft.ZuneMusic","ms-resource:AppName","ms-resource:AppDescription",True
+"ms-windows-search://","ms-windows-search","","","","",True
+"ms-windows-store://","ms-windows-store","C:\Program Files\WindowsApps\Microsoft.WindowsStore_22408.1401.6.0_x64__8wekyb3d8bbwe\WinStore.App.exe","Microsoft.WindowsStore","Microsoft Store","ms-resource:StoreDescription",True
+"ms-windows-store2://","ms-windows-store2","C:\Program Files\WindowsApps\Microsoft.WindowsStore_22408.1401.6.0_x64__8wekyb3d8bbwe\WinStore.App.exe","Microsoft.WindowsStore","Microsoft Store","ms-resource:StoreDescription",True
+"ms-windows-store-deskext://","ms-windows-store-deskext","C:\Program Files\WindowsApps\Microsoft.WindowsStore_22408.1401.6.0_x64__8wekyb3d8bbwe\WinStore.App.exe","Microsoft.WindowsStore","Microsoft Store","ms-resource:StoreDescription",True
+"mswindowsvideo://","","C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe\Video.UI.exe","Microsoft.ZuneVideo","ms-resource:IDS_MANIFEST_VIDEO_APP_NAME","ms-resource:IDS_MANIFEST_VIDEO_APP_DESCRIPTION",True
+"ms-word://","Word Protocol","C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe ""%1""","","","",True
+"ms-wpc://","ms-wpc","C:\Windows\SystemApps\ParentalControls_cw5n1h2txyewy\WpcUapApp.exe","Microsoft.Windows.ParentalControls","ms-resource:DisplayName","ms-resource:DisplayName",True
+"ms-wxh://","ms-wxh","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\WebExperienceHostApp.exe","MicrosoftWindows.Client.CBS","ms-resource:WebExperienceHostAppName/Text","ms-resource:WebExperienceHostDescription",True
+"ms-xbet-survey://","ms-xbet-survey","C:\Program Files\WindowsApps\Microsoft.StorePurchaseApp_22408.1401.0.0_x64__8wekyb3d8bbwe\StoreExperienceHost.exe","Microsoft.StorePurchaseApp","ms-resource:DisplayTitle","ms-resource:Description",True
+"ms-xbl-3d8b930f://","","","","","",True
+"msxbox://","msxbox","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"ms-xgpueject://","ms-xgpueject","C:\Windows\SystemApps\Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy\XGpuEjectDialog.exe","Microsoft.Windows.XGpuEjectDialog","ms-resource:AppxManifest_DisplayName","ms-resource:AppxManifest_Description",True
+"outlookaccounts://","outlookaccounts","C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22054.0_x64__8wekyb3d8bbwe\HxAccounts.exe","microsoft.windowscommunicationsapps","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_AccountsDesktop_DisplayName","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_AccountsDesktop_Description",True
+"outlookcal://","outlookcal","C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22054.0_x64__8wekyb3d8bbwe\HxCalendarAppImm.exe","microsoft.windowscommunicationsapps","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_CalendarDesktop_DisplayName","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_CalendarDesktop_Description",True
+"outlookmail://","outlookmail","C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22054.0_x64__8wekyb3d8bbwe\HxOutlook.exe","microsoft.windowscommunicationsapps","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_MailDesktop_DisplayName","ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_MailDesktop_Description",True
+"sms://","sms","C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24082.137.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe","Microsoft.YourPhone","ms-resource:AppName","ms-resource:AppName",True
+"tel://","tel","C:\Program Files\WindowsApps\Microsoft.People_10.2202.100.0_x64__8wekyb3d8bbwe\PeopleApp.exe C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24082.137.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe","Microsoft.People Microsoft.YourPhone","ms-resource:AppListName ms-resource:AppName","ms-resource:AppManifest_AppDescription ms-resource:AppName",True True
+"webcal://","webcal","C:\Program Files\WindowsApps\microsoft.outlookforwindows_1.2024.911.200_x64__8wekyb3d8bbwe\olk.exe","Microsoft.OutlookForWindows","Outlook (new)","Microsoft Outlook",True
+"webcals://","webcals","C:\Program Files\WindowsApps\microsoft.outlookforwindows_1.2024.911.200_x64__8wekyb3d8bbwe\olk.exe","Microsoft.OutlookForWindows","Outlook (new)","Microsoft Outlook",True
+"windowsdefender://","windowsdefender","C:\Program Files\WindowsApps\microsoft.sechealthui_1000.22621.2501.0_x64__8wekyb3d8bbwe\SecHealthUI.exe","Microsoft.SecHealthUI","ms-resource:DisplayName","ms-resource:Description",True
+"windows-feedback://","windows-feedback","C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.2407.21972.0_x64__8wekyb3d8bbwe\PilotshubApp.exe","Microsoft.WindowsFeedbackHub","ms-resource:AppStoreName","ms-resource:AppDescription",True
+"wp-autoplay://","wp-autoplay","C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2024.11070.31001.0_x64__8wekyb3d8bbwe\Photos.exe","Microsoft.Windows.Photos","ms-resource:AppDisplayName","ms-resource:AppDescription",True
+"xbox://","xbox","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"xbox-friendfinder://","xbox-friendfinder","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"xbox-gamehub://","xbox-gamehub","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"xboxidp://","xboxidp","C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.115.1001.0_x64__8wekyb3d8bbwe\XboxIdp.exe","Microsoft.XboxIdentityProvider","ms-resource:DisplayName","Xbox Identity Provider",True
+"xboxliveapp-1297287741://","xboxliveapp-1297287741","C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.20.9120.0_x64__8wekyb3d8bbwe\Solitaire.exe","Microsoft.MicrosoftSolitaireCollection","Solitaire & Casual Games","Solitaire & Casual Games",True
+"xbox-profile://","xbox-profile","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"xbox-settings://","xbox-settings","C:\Program Files\WindowsApps\Microsoft.GamingApp_2409.1001.5.0_x64__8wekyb3d8bbwe\XboxPcApp.exe","Microsoft.GamingApp","Xbox","XboxPcApp",True
+"xbox-tcui://","xbox-tcui","C:\Program Files\WindowsApps\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe\TCUI-App.exe C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy\XBox.TCUI.exe","Microsoft.Xbox.TCUI Microsoft.XboxGameCallableUI","ms-resource:DisplayName ms-resource:PkgDisplayName","Xbox Title Callable UI ms-resource:PkgDisplayName",True True
+"zune://","zune","C:\Program Files\WindowsApps\Microsoft.WindowsStore_22408.1401.6.0_x64__8wekyb3d8bbwe\WinStore.App.exe","Microsoft.WindowsStore","Microsoft Store","ms-resource:StoreDescription",True
+
